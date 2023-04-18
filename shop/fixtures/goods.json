@@ -1,0 +1,62 @@
+[
+    {
+        "model": "shop.product",
+        "pk": 2,
+        "fields": {
+            "title": "T-Shirt",
+            "price": "15.00",
+            "description": "This short-sleeved t-shirt is made from a lightweight cotton fabric and features a classic crew neck.",
+            "quantity": 50
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 3,
+        "fields": {
+            "title": "Button-Down Shirt",
+            "price": "35.00",
+            "description": "This long-sleeved button-down shirt is crafted from a soft cotton blend and features a timeless design.",
+            "quantity": 30
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 4,
+        "fields": {
+            "title": "Sweater",
+            "price": "45.00",
+            "description": "This stylish sweater is made from a cozy wool blend and features ribbed detailing.",
+            "quantity": 25
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 10,
+        "fields": {
+            "title": "Shorts",
+            "price": "25.00",
+            "description": "This short-sleeved Shorts is made from a lightweight cotton fabric and features a classic crew neck.",
+            "quantity": 10
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 11,
+        "fields": {
+            "title": "Denim Jeans",
+            "price": "50.00",
+            "description": "These classic denim jeans feature a slim fit and a versatile dark wash.",
+            "quantity": 50
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 12,
+        "fields": {
+            "title": "T-Shirt",
+            "price": "20.00",
+            "description": "This short-sleeved t-shirt is made from a lightweight cotton fabric and features a classic crew neck.",
+            "quantity": 50
+        }
+    }
+]
